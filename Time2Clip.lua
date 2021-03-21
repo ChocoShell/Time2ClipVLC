@@ -8,6 +8,7 @@ Then you simply use the extension by going to the "View" menu and selecting it.
 
 
 function descriptor()
+ --None of this descriptor info was done by me (ChocoShell). I'll put this info in an old metadata description to preserve the previous maintainer.
     return {
         title = "Time2Clip";
         version = "1.0";
